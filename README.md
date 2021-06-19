@@ -16,9 +16,8 @@ $ pip install -r requirements.txt
 ``` bash
 $ python Web-Link Extractor.py
 ```
-You will then be asked which webpage you would like to analyze.
-After that the extracted links will be saved as an array in `myLinks.txt`.
 
+Thanks for Visiting! Happy Learning!
 
 ## *Author Name*
 [Vahini Kumar Guttula](https://github.com/VahiniKumarGuttula)
